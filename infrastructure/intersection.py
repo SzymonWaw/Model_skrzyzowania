@@ -1,4 +1,4 @@
-from path import Lane
+from infrastructure.path import Lane
 
 class Intersection:
     def __init__(self, name: str):
